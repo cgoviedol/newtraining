@@ -1,0 +1,2 @@
+# newtraining
+firts repository
